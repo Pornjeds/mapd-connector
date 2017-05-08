@@ -27,6 +27,7 @@
     "babel-preset-stage-1": "^6.5.0",
     "chai": "^3.5.0",
     "chai-spies": "^0.7.1",
+    "codecov": "^2.1.0",
     "documentation": "^4.0.0-rc.0",
     "esdoc": "^0.4.8",
     "eslint": "^3.0.1",
@@ -36,7 +37,7 @@
   },
   "nyc": {
     "check-coverage": true,
-    "lines": 28.0,
+    "lines": 28,
     "statements": 28.3,
     "functions": 23.91,
     "branches": 17.3,
